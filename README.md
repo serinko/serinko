@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @serinko
-- 👀 I’m interested in learning Linux essentials and Python programming
-- 🌱 I’m currently learning from the Python crash course book.
+- 👀 I’m interested in learning Linux essentials and Python programming.
+- 🌱 I’m currently learning from the Python crash course book, advices welcome.
 - 💞️ I’m looking to collaborate on projects empowering communities.
 - 📫 You can reach me here.
 
