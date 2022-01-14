@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @serinko
-- 👀 I’m interested in learning Linux essentials and Python programming.
-- 🌱 I’m currently learning from the Python crash course book, advices welcome.
-- 💞️ I’m looking to collaborate on projects empowering communities.
-- 📫 You can reach me here.
+@serinko is a chosen name to give my honor to partizans, forests, mountains and waters defining and defending the strogholds of free life.
+Leraning Linux and Python.
 
 <!---
 serinko/serinko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
