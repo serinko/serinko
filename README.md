@@ -1,4 +1,4 @@
-@serinko is a chosen name to give my honor to partizans, forests, mountains and waters defining and defending the strogholds of free life.
+@serinko is a chosen name to give my honor to partisans, forests, mountains and waters defining and defending the strogholds of free life.
 Learning Linux and Python.
 
 <!---
